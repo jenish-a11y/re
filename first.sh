@@ -11,4 +11,8 @@ df -h
 echo "pring the memeory"
 
 echo "printing date "
-date 
+date
+
+
+sudo apt update
+sudo apt install -y apache2
