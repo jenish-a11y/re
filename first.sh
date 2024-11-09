@@ -8,3 +8,4 @@ echo "man or women"
 
 df -h
 
+echo "pring the memeory"
