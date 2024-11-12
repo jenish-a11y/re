@@ -20,3 +20,5 @@ sudo apt install -y apache2
 sudo systemctl status apache2
 
 echo "quick fix "
+ 
+ echo "mnand"
